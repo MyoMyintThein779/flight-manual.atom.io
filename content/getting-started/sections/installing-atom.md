@@ -1,4 +1,4 @@
----
+---CONTRIBUTING.md
 title: Installing Atom
 ---
 ### Installing Atom
